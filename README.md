@@ -14,7 +14,7 @@ npm install es7-sleep
 
 ## Usage
 
-```
+```js
 import sleep from "es7-sleep";
 
 async () => {
